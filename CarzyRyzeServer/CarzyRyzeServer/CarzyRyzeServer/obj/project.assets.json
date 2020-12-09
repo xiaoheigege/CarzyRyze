@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\CarzyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer.csproj",
+      "projectUniqueName": "C:\\陈县鸿\\资料\\资料\\Code\\CrazyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer.csproj",
       "projectName": "CarzyRyzeServer",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\CarzyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer.csproj",
+      "projectPath": "C:\\陈县鸿\\资料\\资料\\Code\\CrazyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\CarzyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\obj\\",
+      "outputPath": "C:\\陈县鸿\\资料\\资料\\Code\\CrazyRyze\\CarzyRyzeServer\\CarzyRyzeServer\\CarzyRyzeServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
